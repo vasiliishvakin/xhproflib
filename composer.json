@@ -1,9 +1,8 @@
 {
-    "name": "facebook/xhprof",
+    "name": "orbisnull/xhprofgui",
     "type": "library",
-    "description": "XHProf: A Hierarchical Profiler for PHP",
+    "description": "XHProf GUI: Web GUI for  a Hierarchical Profiler for PHP",
     "keywords": ["profiling", "performance"],
-    "homepage": "http://pecl.php.net/package/xhprof",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.2.0"
