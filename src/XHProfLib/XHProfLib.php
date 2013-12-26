@@ -1,6 +1,6 @@
 <?php
 
-namespace XHProfiler;
+namespace XHProfLib;
 
 require_once 'lib/xhprof_lib.php';
 require_once 'lib/xhprof_runs.php';
